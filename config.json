@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_DISCORD_TOKEN_HERE",
+  "prefix": "/",
+  "botName": "MyBot",
+  "adminIds": [
+    "YOUR_ADMIN_ID_HERE"
+  ],
+  "adminServerId": "YOUR_ADMIN_SERVER_ID_HERE"
+}
